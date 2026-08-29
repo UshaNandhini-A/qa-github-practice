@@ -61,9 +61,9 @@ public class FirstMobileTest {
     }
 
     // Fixed login error message validation - Issue #2
-    String password = "invalidPassword";
+   // String password = "invalidPassword";
 
-if (password.equals("invalidPassword")) {
-        System.out.println("Invalid username or password");
+//if (password.equals("invalidPassword")) {
+       // System.out.println("Invalid username or password");
     }
 }
